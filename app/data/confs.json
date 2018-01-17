@@ -430,5 +430,15 @@
     "numberOfWomen":5,
     "source":"http://2016.jsconfau.com/",
     "Notes":""
+  },
+  {
+    "name": "Linux.conf.au",
+    "location": "Sydney, Australia",
+    "year": "2018",
+    "totalSpeakers": 154,
+    "numberOfWomen": 36,
+    "numberOfOtherGenders": 4,
+    "source": "https://rego.linux.conf.au/schedule/",
+    "Notes": ""
   }
 ]
